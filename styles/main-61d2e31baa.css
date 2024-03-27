@@ -1332,7 +1332,6 @@ input[placeholder] {
 }
 
 .hero {
-    z-index: 1000;
     background-position: -240px 50%;
     background-repeat: no-repeat;
     background-size: auto 100%;
